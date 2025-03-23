@@ -1,2 +1,2 @@
-# Python_1
-Pequenos Projetos em Python que realizei no meu trabalho de Lógica de Programação e Algoritmos...
+# Exercícios de Lógica de Programação
+
