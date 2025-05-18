@@ -5,7 +5,6 @@ Repositório com meus exercícios de **lógica de programação** em várias lin
 ## 📁 Conteúdo
 
 - Lógica de programação:
-  - JavaScript
   - Python
   - PHP
   - Java
